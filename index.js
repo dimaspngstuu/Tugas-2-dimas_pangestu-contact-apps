@@ -93,7 +93,7 @@ const kembali = () => { // fungsi untuk navigasi kembali
             readline.close()
         }
         
-    })
+    });
 }
 
 function lihatData () { // fungsi untuk melihat list data
